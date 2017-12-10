@@ -1,3 +1,29 @@
-baseURL = "http://example.org/"
+baseURL = "http://hongsenliu.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "ITO"
+
+copyright = "Copyright &copy; 2017 - Hongsen Liu"
+canonifyurls = true
+theme = "kiera"
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+disqusShortname = "hongsenliu" #Disqus shortname
+googleAnalytics = "" #Google Analytics ID
+
+[author]
+    name = "Hongsen Liu"
+    #github = ""
+    #gitlab = ""
+    #linkedin = ""
+    #facebook = ""
+    #twitter = ""
+    #instagram = ""
+
+[params]
+    tagline = "Input|Think|Output"
+
