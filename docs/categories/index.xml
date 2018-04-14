@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ITO</title>
-    <link>https://hongsenliu.github.io/notes/categories/</link>
+    <link>http://hongsenliu.github.io/notes/categories/</link>
     <description>Recent content in Categories on ITO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://hongsenliu.github.io/notes/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hongsenliu.github.io/notes/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ielts</title>
-      <link>https://hongsenliu.github.io/notes/categories/ielts/</link>
+      <link>http://hongsenliu.github.io/notes/categories/ielts/</link>
       <pubDate>Sun, 10 Dec 2017 20:24:47 +0800</pubDate>
       
-      <guid>https://hongsenliu.github.io/notes/categories/ielts/</guid>
+      <guid>http://hongsenliu.github.io/notes/categories/ielts/</guid>
       <description></description>
     </item>
     

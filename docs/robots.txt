@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://hongsenliu.github.io/notes/sitemap.xml
+Sitemap: http://hongsenliu.github.io/notes/sitemap.xml
