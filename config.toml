@@ -1,4 +1,4 @@
-baseURL = "http://hongsenliu.github.io/notes"
+baseURL = "https://hongsenliu.github.io/notes"
 languageCode = "en-us"
 title = "ITO"
 
@@ -10,7 +10,7 @@ defaultContentLanguage = "en"
 hasCJKLanguage = true # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
 
 paginate = 5
-
+publishDir = "docs"
 summaryLength = 30
 enableEmoji = true
 pygmentsCodeFences = true

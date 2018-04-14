@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ITO</title>
+    <link>https://hongsenliu.github.io/notes/post/</link>
+    <description>Recent content in Posts on ITO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Dec 2017 20:24:47 +0800</lastBuildDate>
+    
+	<atom:link href="https://hongsenliu.github.io/notes/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sample 1</title>
+      <link>https://hongsenliu.github.io/notes/post/sample1/</link>
+      <pubDate>Sun, 10 Dec 2017 20:24:47 +0800</pubDate>
+      
+      <guid>https://hongsenliu.github.io/notes/post/sample1/</guid>
+      <description>Nowadays, an increasing number of people are concerned about the purpose of university education.</description>
+    </item>
+    
+  </channel>
+</rss>
