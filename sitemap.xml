@@ -3,19 +3,98 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://hongsenliu.github.io/notes/post/shoubashou1/</loc>
+    <lastmod>2018-04-15T20:31:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://hongsenliu.github.io/notes/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://hongsenliu.github.io/notes/tags/english/</loc>
+    <lastmod>2018-04-15T20:31:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://hongsenliu.github.io/notes/</loc>
+    <lastmod>2018-04-15T20:31:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hongsenliu.github.io/notes/tags/ielts/</loc>
+    <lastmod>2018-04-15T20:31:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hongsenliu.github.io/notes/post/</loc>
+    <lastmod>2018-04-15T20:31:01+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://hongsenliu.github.io/notes/tags/</loc>
+    <lastmod>2018-04-15T20:31:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hongsenliu.github.io/notes/tags/task2/</loc>
+    <lastmod>2018-04-15T20:31:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hongsenliu.github.io/notes/tags/writing/</loc>
+    <lastmod>2018-04-15T20:31:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hongsenliu.github.io/notes/categories/%E5%B0%8F%E7%BB%BF%E4%B9%A64.0/</loc>
+    <lastmod>2018-04-15T20:31:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hongsenliu.github.io/notes/tags/%E6%95%99%E8%82%B2/</loc>
+    <lastmod>2018-04-15T20:31:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hongsenliu.github.io/notes/tags/%E7%A1%AE%E5%AE%9Aa/</loc>
+    <lastmod>2018-04-15T20:31:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hongsenliu.github.io/notes/tags/%E8%AE%BA%E8%BF%B0%E7%B1%BB/</loc>
+    <lastmod>2018-04-15T20:31:01+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hongsenliu.github.io/notes/tags/%E9%A1%BE%E5%AE%B6%E5%8C%97/</loc>
+    <lastmod>2018-04-15T20:31:01+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
