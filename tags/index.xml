@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ITO</title>
+    <link>http://hongsenliu.github.io/notes/tags/</link>
+    <description>Recent content in Tags on ITO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Apr 2018 20:31:01 +0800</lastBuildDate>
+    
+	<atom:link href="http://hongsenliu.github.io/notes/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>English</title>
+      <link>http://hongsenliu.github.io/notes/tags/english/</link>
+      <pubDate>Sun, 15 Apr 2018 20:31:01 +0800</pubDate>
+      
+      <guid>http://hongsenliu.github.io/notes/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ielts</title>
+      <link>http://hongsenliu.github.io/notes/tags/ielts/</link>
+      <pubDate>Sun, 15 Apr 2018 20:31:01 +0800</pubDate>
+      
+      <guid>http://hongsenliu.github.io/notes/tags/ielts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task2</title>
+      <link>http://hongsenliu.github.io/notes/tags/task2/</link>
+      <pubDate>Sun, 15 Apr 2018 20:31:01 +0800</pubDate>
+      
+      <guid>http://hongsenliu.github.io/notes/tags/task2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>http://hongsenliu.github.io/notes/tags/writing/</link>
+      <pubDate>Sun, 15 Apr 2018 20:31:01 +0800</pubDate>
+      
+      <guid>http://hongsenliu.github.io/notes/tags/writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>教育</title>
+      <link>http://hongsenliu.github.io/notes/tags/%E6%95%99%E8%82%B2/</link>
+      <pubDate>Sun, 15 Apr 2018 20:31:01 +0800</pubDate>
+      
+      <guid>http://hongsenliu.github.io/notes/tags/%E6%95%99%E8%82%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>确定a</title>
+      <link>http://hongsenliu.github.io/notes/tags/%E7%A1%AE%E5%AE%9Aa/</link>
+      <pubDate>Sun, 15 Apr 2018 20:31:01 +0800</pubDate>
+      
+      <guid>http://hongsenliu.github.io/notes/tags/%E7%A1%AE%E5%AE%9Aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>论述类</title>
+      <link>http://hongsenliu.github.io/notes/tags/%E8%AE%BA%E8%BF%B0%E7%B1%BB/</link>
+      <pubDate>Sun, 15 Apr 2018 20:31:01 +0800</pubDate>
+      
+      <guid>http://hongsenliu.github.io/notes/tags/%E8%AE%BA%E8%BF%B0%E7%B1%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>顾家北</title>
+      <link>http://hongsenliu.github.io/notes/tags/%E9%A1%BE%E5%AE%B6%E5%8C%97/</link>
+      <pubDate>Sun, 15 Apr 2018 20:31:01 +0800</pubDate>
+      
+      <guid>http://hongsenliu.github.io/notes/tags/%E9%A1%BE%E5%AE%B6%E5%8C%97/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
